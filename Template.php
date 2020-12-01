@@ -136,7 +136,7 @@ $h2->run();    //汽车h2跑起来
 
 
 $hx1 = new HummerH1Model();
-$hx1->setAlarm(true);
+$hx1->setAlarm(false);
 $hx1->run();
 
 ?>
